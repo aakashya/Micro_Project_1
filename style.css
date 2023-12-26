@@ -104,7 +104,7 @@ h2 {
 .column {
   background-color: var(--black);
   color: #fff;
-  padding: 100px 0;
+  padding: 80px 0;
   display: flex;
   justify-content: space-around;
 }
